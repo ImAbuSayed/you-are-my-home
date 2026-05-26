@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - You Are My Home
+
+This log tracks the cryptographic history and versioning for the song **You Are My Home** (you-are-my-home).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-26T06:37:12.422088 | `v1` | `532d0edd8dde8f8047d3e2b4311ec111403315b6eee354bfd971d3e22497ddbf` | `ce84b369b124faf5104f201aa3d02ac704abb0078226b8df185bf748e886e1a7` | `2026-05-26_you-are-my-home-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
