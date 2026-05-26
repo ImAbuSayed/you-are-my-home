@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/you-are-my-home/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for You Are My Home](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-are-my-home/) |
+| **Get License** | [Secure Licensing Rights for You Are My Home](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-are-my-home/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight on the porch, shadows on the floor
+> I don't wanna be without you anymore
+> Baby, slip your shoes off, stay a little while
+> I could spend forever living in your smile
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
