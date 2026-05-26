@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/you-are-my-home/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for You Are My Home](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-are-my-home/) |
+| **Get License** | [Official Music Licensing for You Are My Home](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/you-are-my-home/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2142)
 
 ---
 
